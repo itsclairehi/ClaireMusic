@@ -1,0 +1,29 @@
+.nav-link{
+    color: brown 
+}
+
+.nav-link:hover{
+    color: burlywood;
+    cursor: pointer;
+}
+
+body{
+    background-image: url("../images/lovecraft-oct-2020-img_1516190\ copy.jpg");
+    background-size: cover;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+
+.nav{
+    background-color: rgb(236, 216, 190);
+    /* padding:10px; */
+    background-size: cover;
+    background-image: url("../images/lovecraft-oct-2020-img_2073707\ copy.jpg");
+}
+
+.test{
+    background-image: url("../images/lovecraft-2021-claire-img_0353\ copy.JPG");
+    padding: 2%;
+    /* border: 1px solid burlywood;
+    border-style:inset */
+}
